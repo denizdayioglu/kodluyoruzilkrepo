@@ -13,6 +13,6 @@ Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-``` cd kodluyoruz ilk repo
-code . ```
+``` cd kodluyoruz ilk repo ```
+````code . ```
 
